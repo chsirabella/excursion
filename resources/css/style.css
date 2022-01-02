@@ -1,0 +1,43 @@
+* {
+  font-family: Verdana;
+  background-color: black;
+  text-align: center;
+}
+
+h1 {
+  font-weight: normal;
+  color: white;
+  font-size: 50px;
+}
+
+h2 {
+  font-weight: normal;
+  color: white;
+  font-size: 42px;
+}
+
+p {
+  color: Gray;
+  font-size: 21px;
+}
+
+#download-link {
+  font-weight: normal;
+  color: aquamarine;
+  font-size: 16px;
+  text-align: center;
+}
+
+a:link {
+  color: aquamarine;
+}
+
+a:visited {
+  color: aquamarine;
+}
+
+#footer {
+  text-align: right;
+  color: gray;
+  font-size: 21px;
+}
